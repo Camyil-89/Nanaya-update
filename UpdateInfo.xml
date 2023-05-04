@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<UpdateInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <LastVersions>
+    <LastVersionInfo>
+      <Version>17.0</Version>
+      <Date>2023-05-05T00:00:00</Date>
+      <Type>Release</Type>
+    </LastVersionInfo>
+  </LastVersions>
+  <Versions>
+    <VersionInfo>
+      <Type>Release</Type>
+      <Version>17.0</Version>
+      <Date>2023-05-05T00:00:00</Date>
+      <Files>
+        <FileInfo>
+          <Path>\Nanaya.exe</Path>
+          <Url>17.0\Nanaya.exe</Url>
+          <Hash>918e0eb3b2e78ec0d92875f8d077f35a</Hash>
+          <Size>6555612</Size>
+        </FileInfo>
+      </Files>
+    </VersionInfo>
+  </Versions>
+</UpdateInfo>
